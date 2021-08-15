@@ -1,6 +1,6 @@
-# papp
+# Flutter Concept App
 
-A new Flutter project.
+This app utilizes flutter card, listview, shared preference, provider, search and bottom navigation bar. Ideal for Beginners.
 
 ## Getting Started
 
